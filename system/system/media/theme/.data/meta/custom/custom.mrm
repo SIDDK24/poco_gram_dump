@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "gramdefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]
